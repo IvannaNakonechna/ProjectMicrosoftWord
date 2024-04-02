@@ -9,8 +9,8 @@ namespace ProjectMicrosoftWord
         public MicrosoftWord()
         {
             InitializeComponent();
-            WriteTxtB.Text = new Bitmap(WriteTxtB.Width, WriteTxtB.Height);
-            graphicsmicrosoftword = Graphics.FromImage(WriteTxtB.Image);
+            //WriteTxtB.Text = new Bitmap(WriteTxtB.Width, WriteTxtB.Height);
+            //graphicsmicrosoftword = Graphics.FromImage(WriteTxtB.Image);
         }
 
 
@@ -69,7 +69,7 @@ namespace ProjectMicrosoftWord
         {
             this.openFileDialog1 = new OpenFileDialog();
             this.openFileDialog1.Filter =
-            "Images (*.BMP;*.JPG;*.GIF,*.PNG,*.TIFF)|*.BMP;*.JPG;*.GIF;*.PNG;*.TIFF|" +
+            "Images (*.BMP;*.JPG;*.GIF,*.PNG,*.TIFF,*DOCX)|*.BMP;*.JPG;*.GIF;*.PNG;*.TIFF,*DOCX|" +
             "All files (*.*)|*.*";
 
             this.openFileDialog1.Multiselect = true;
@@ -88,7 +88,7 @@ namespace ProjectMicrosoftWord
                         Bitmap myBitmap = new Bitmap(file);
                         Image myThumbnail = myBitmap.GetThumbnailImage(WriteTxtB.Width, WriteTxtB.Height,
                             myCallback, IntPtr.Zero);
-                        WriteTxtB.Image = myThumbnail;
+                        //WriteTxtB.Image = myThumbnail;
 
                     }
                     catch (Exception ex)
