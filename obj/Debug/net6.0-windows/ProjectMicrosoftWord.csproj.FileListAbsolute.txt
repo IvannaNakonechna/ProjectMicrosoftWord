@@ -1,0 +1,16 @@
+D:\lab\ProjectMicrosoftWord\bin\Debug\net6.0-windows\ProjectMicrosoftWord.exe
+D:\lab\ProjectMicrosoftWord\bin\Debug\net6.0-windows\ProjectMicrosoftWord.deps.json
+D:\lab\ProjectMicrosoftWord\bin\Debug\net6.0-windows\ProjectMicrosoftWord.runtimeconfig.json
+D:\lab\ProjectMicrosoftWord\bin\Debug\net6.0-windows\ProjectMicrosoftWord.dll
+D:\lab\ProjectMicrosoftWord\bin\Debug\net6.0-windows\ProjectMicrosoftWord.pdb
+D:\lab\ProjectMicrosoftWord\obj\Debug\net6.0-windows\ProjectMicrosoftWord.csproj.GenerateResource.cache
+D:\lab\ProjectMicrosoftWord\obj\Debug\net6.0-windows\ProjectMicrosoftWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab\ProjectMicrosoftWord\obj\Debug\net6.0-windows\ProjectMicrosoftWord.AssemblyInfoInputs.cache
+D:\lab\ProjectMicrosoftWord\obj\Debug\net6.0-windows\ProjectMicrosoftWord.AssemblyInfo.cs
+D:\lab\ProjectMicrosoftWord\obj\Debug\net6.0-windows\ProjectMicrosoftWord.csproj.CoreCompileInputs.cache
+D:\lab\ProjectMicrosoftWord\obj\Debug\net6.0-windows\ProjectMicrosoftWord.dll
+D:\lab\ProjectMicrosoftWord\obj\Debug\net6.0-windows\refint\ProjectMicrosoftWord.dll
+D:\lab\ProjectMicrosoftWord\obj\Debug\net6.0-windows\ProjectMicrosoftWord.pdb
+D:\lab\ProjectMicrosoftWord\obj\Debug\net6.0-windows\ProjectMicrosoftWord.genruntimeconfig.cache
+D:\lab\ProjectMicrosoftWord\obj\Debug\net6.0-windows\ref\ProjectMicrosoftWord.dll
+D:\lab\ProjectMicrosoftWord\obj\Debug\net6.0-windows\ProjectMicrosoftWord.MicrosoftWord.resources
